@@ -18,11 +18,8 @@ All types of contributions are encouraged and valued. See the [Table of Contents
 - [I Want To Contribute](#i-want-to-contribute)
 - [Reporting Bugs](#reporting-bugs)
 - [Suggesting Enhancements](#suggesting-enhancements)
-- [Your First Code Contribution](#your-first-code-contribution)
+- [How to Contribute to an Open Source project](#how-to-contribute-to-an-open-source-project)
 - [Improving The Documentation](#improving-the-documentation)
-- [Styleguides](#styleguides)
-- [Commit Messages](#commit-messages)
-- [Join The Project Team](#join-the-project-team)
 
 
 ## Code of Conduct
