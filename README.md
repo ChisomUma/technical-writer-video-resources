@@ -5,7 +5,7 @@ Technical Writing video resources for beginners
 This repository serves as a comprehensive video resource hub for individuals interested in technical writing. Whether you're considering a career switch, starting your first technical writing role, or simply wanting to improve your documentation skills, you'll find valuable content here.
 
 ## Getting Started
-These foundational videos will help you understand what technical writing is and what technical writers do:
+These foundational videos will help you understand what technical writing is and what technical writers do. You can check out the videos [here](https://github.com/ChisomUma/technical-writer-video-resources/blob/main/TECHNICAL-WRITING-VIDEOS.md). The resource covers the following:
 
 ## Understanding Technical Writing - Beginner-friendly introductions to the field
 Career Pathways - Videos about different career paths in technical writing
