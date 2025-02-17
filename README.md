@@ -21,7 +21,7 @@ Learn the fundamental skills required for technical writing:
 * Audience Analysis - Understanding and writing for your readers
 
 ## Tools and Technologies
-Videos covering essential tools and technologies:
+Videos covering essential tools and technologies **(contributions around this are most welcomed)**:
 
 * Documentation Platforms - Static site generators, wikis, and help authoring tools
 * Markup Languages - Markdown, reStructuredText, AsciiDoc
@@ -29,7 +29,7 @@ Videos covering essential tools and technologies:
 * Collaboration Tools - Project management and team communication
 
 ## Best Practices
-Improve your technical writing with these recommended practices:
+Improve your technical writing with these recommended practices **(contributions around this are most welcomed)**:
 
 * Style Guides - Following industry standards and creating consistency
 * Documentation Planning - Project management for technical writers
