@@ -3,16 +3,16 @@ Hey, 😊...glad you found the need to check out my carefully curated video reso
 
 Don't get me wrong, reading texts is a great way to learn, and it is very important to us as technical writers since we will be working with documentation and, in many cases, have to draw inspiration from existing written documentation. 
 
-Still, if I had my way, I'd create a video version of every documentation I make (just kidding🤪).
+Still, if I had my way, I'd create a video version of every piece of documentation I create (just kidding🤪).
 
-Don't judge me!! I prefer watching videos to learn about a product or a concept. A written document would make more sense if I needed to go in-depth.
+Don't judge me! I prefer watching videos to learn about a product or concept. However, if I needed to go in-depth, a written document would make more sense.
 
 If you are like me and want to explore the world of technical writing by watching helpful videos, this is the right resource for you! You're welcome! 
 
 Below are top curated technical writing videos for beginners, in no particular order (ignore the numbered lists).
 
 ## Who is the author?
-Before continuing with this resource, I'd like to introduce myself briefly. My name is Chisom Uma, and I am a technical writer with over 3 years of experience writing documentation for both technical and non-technical audiences. My portfolio includes various technical content, including technical blog posts, software and API documentation, and user-facing documentation. 
+Before I continue with this resource, I'd like to introduce myself a little bit. My name is Chisom Uma, and I am a technical writer with over 3 years of experience writing documentation for both technical and non-technical audiences. My portfolio includes various technical content, including technical blog posts, software and API documentation, and user-facing documentation. 
 
 Check me out on my LinkedIn [here](https://www.linkedin.com/in/chisom-uma-36187a236/).
 
